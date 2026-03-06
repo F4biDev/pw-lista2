@@ -1,2 +1,55 @@
 # pw-lista2
 exercicios da lista2 HTML
+<title>PWLISTA2</title>
+</head>
+<body>
+    
+    <h1>
+        Biografia da Fabi
+    </h1>
+    <p>Olá meu nome é Fabiana dos Santos! No ano de 2026, em março, completei 18 anos e uma nova etapa se inciou na minha vida quando consegui entrar em DUAS Etecs. A principio eu havia planejado fazer faculdade de ADS (Analise e desenvolvimento de Sistemas), mas não consegui passar em uma com a nota do Enem. Mas então, recebi uma mensagem da Etec, para cursar o mesmo que ia na faculdade, e isso me deixou extremamente feliz.
+    </p>
+    <p>
+        Minha vida tem muitas camadas e diversas histórias. Quando eu era criança, meu pai me incentivava a ser engenheira, por eu saber desenhar ele pensou que seria a melhor escolha. De acordo que entrei na adolescencia, esta visão mudou e passou a ser: Ou tatuadora, ou cursar TI. TI foi a melhor escolha, ja que sempre gostei de computação e jogos, e quando fiz 17 anos, tive minha primeira experiencia na pratica com programação. Curti bastante, e agora com a oportunidade de estar na etec, posso chegar cada vez mais alto nesta profissão que vai ser o futuro do mundo eu diria.
+    </p>
+    <h4>Coisas de que gosto de fazer</h4>
+    <ul><li>Desenhar;</li>
+        <li>Assistir filmes de terror, animação ou filmes que ja assisti um milhão de vezes</li>
+        <li>Boas conversas com pessoas que me fazem feliz, e rir com elas.</li>
+        <li>Jogar jogos indie</li>
+    </ul>
+    <h4>Lista de itens que eu compraria caso tivesse um cartão ilimitado:</h4>
+    <ol>
+        <li>Pc gamer</li>
+        <li>Várias roupas da internet, no meu estilo</li>
+        <li>Passagem pra China</li>
+        <li>Uma chacara ou apartamento em um lugar tranquilo</li>
+        <li>Ingressos para shows das bandas que mais gosto</li>
+    </ol>
+
+    <h1>Meus filmes e séries favoritos</h1>
+
+    <p>
+       Meu gosto por filmes e séries diz muito sobre minha personalidade e forma de me vestir, por exemplo, gosto de fazer maquiagens sombrias, e gosto de filmes de terror. Ja séries, gosto de coisas LGBT ou Adolescente, ou até mesmo animes.
+    Mas pra ser sincera, gosto de todos os generos de filmes e series.</p>
+
+<p>Séries:</p>
+
+ <ul>
+    <li>Heartstopper</li>
+    <li>Z Nation</li>
+    <li>The end of the fucking world</li>
+    <li>Eu nunca</li>
+    <li>Arcane</li>
+ </ul>
+
+<p>Filmes:</p>
+
+ <ul>
+    <li>Venom</li>
+    <li>Homem Aranha (todos os filmes)</li>
+    <li>Filmes do studio Ghibli (quase todos)</li>
+ </ul>
+
+</body>
+</html>
